@@ -2,7 +2,7 @@
 
 ## Steps
 
-1) Install Nodejs 22+
+1) Install Nodejs 22+ (https://nodejs.org/en/download)
 2) Create folder C:/server
 3) Move files into folder c:/server
 4) In CMD run:
