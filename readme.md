@@ -12,7 +12,8 @@ cd /server
 npm install
 ```
 5) Create symlink of RTMP.bat and move to desktop
-6) Run RTMP.bat symlink 
+6) Open ports. Look below
+7) Run RTMP.bat symlink 
 
 ## node-media-server
 https://www.npmjs.com/package/node-media-server/v/2.6.6
