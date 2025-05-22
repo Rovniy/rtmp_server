@@ -1,0 +1,13 @@
+{
+  "name": "rtmp_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "node-media-server": "^2.7.4"
+  }
+}
